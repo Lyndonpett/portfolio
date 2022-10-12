@@ -5,12 +5,9 @@
     "scripts": {
         "dev": "next dev",
         "build": "next build",
-        "start": "next start",
-        "lint": "next lint",
-        "predeploy": "npm run build",
-        "deploy": "gh-pages -d out"
+        "start": "next start -H 0.0.0.0 -p ${PORT:-8080}",
+        "lint": "next lint"
     },
-    "homepage": "https://lyndonpett.github.io",
     "dependencies": {
         "next": "12.3.1",
         "react": "18.2.0",
