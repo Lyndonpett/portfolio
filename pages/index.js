@@ -47,7 +47,7 @@ export default function Home() {
               <li className="transition transform hover:-translate-y-1 motion-reduce:transition-none motion-reduce:hover:transform-none">
                 <a
                   className="bg-gradient-to-br from-custom-blue to-custom-pink text-white px-4 py-2 rounded-md ml-2 "
-                  href="https://docs.google.com/document/d/1DmlGd_CHmmo4bS3k80WhTB5qdB2om95GpqFJ7RjLqzk/edit?usp=sharing"
+                  href="https://www.canva.com/design/DAFW6RlimXU/ml5K1vn3i2IOFnSsm4oSEA/view?utm_content=DAFW6RlimXU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
                 >
                   Resume
                 </a>
